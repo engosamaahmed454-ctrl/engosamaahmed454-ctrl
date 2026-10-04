@@ -21,7 +21,7 @@ I'm a secondary student learning Python and data analysis, with paid online teac
 - **Data:** Pandas (reading CSVs, summary statistics), Matplotlib (line, bar, histogram, scatter charts)
 - **Google Workspace:** Google Forms (multi-type forms linked to Sheets, built for real organizations), Google Sheets (SUM, AVERAGE, IF, conditional formatting, charts)
 - **AI tools:** Claude, ChatGPT, Gemini
-- **Currently learning:** Machine Learning basics (Regression), Git & GitHub
+- **Currently learning:** Machine Learning basics (Regression), Git & GitHub, and Cybersecurity basics (just started)
 
 #### 🚀 Projects
 
