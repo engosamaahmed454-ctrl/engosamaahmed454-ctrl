@@ -30,6 +30,8 @@ I'm a secondary student learning Python and data analysis, with paid online teac
 | [🧮 tkinter-calculator](https://github.com/engosamaahmed454-ctrl/tkinter-calculator) | A desktop calculator built with Python and Tkinter |
 | [✅ tkinter-todo-notes-app](https://github.com/engosamaahmed454-ctrl/tkinter-todo-notes-app) | A to-do / notes app with local JSON persistence |
 | [🚲 boombikes-demand-prediction](https://github.com/engosamaahmed454-ctrl/boombikes-demand-prediction) | Bike-sharing demand prediction with linear regression (in progress) |
+| [🎓 certificates](https://github.com/engosamaahmed454-ctrl/certificates) | My iSchool course certificates (Data Analysis, ML, Deep Learning) |
+
 
 #### 🏫 Experience
 
