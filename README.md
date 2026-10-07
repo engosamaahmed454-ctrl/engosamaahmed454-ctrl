@@ -57,3 +57,18 @@ Arabic (Native) · English (Intermediate — conversational, follows English tec
 
 - Email: engosamahmed454@gmail.com
 - Phone: +201099321126
+
+
+#### 🤖 How I Work With AI
+
+When I meet a client and introduce myself, I show my CV and explain my work clearly, point by point:
+
+- Introduce myself and present my CV to the client.
+- Walk the client through everything I have built so far.
+- Explain which parts I created entirely by myself, with my own hands and skills.
+- Explain which parts the AI assisted me with.
+- Explain which parts the AI completed on its own.
+- Explain why I chose to use AI in my work.
+- Give several clear reasons and purposes behind that decision.
+
+Full details: [When Can I Use The Ai With The Client](./When%20Can%20I%20Use%20The%20Ai%20With%20The%20Client)
