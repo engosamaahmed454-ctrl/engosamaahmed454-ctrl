@@ -70,3 +70,5 @@ When I meet a client and introduce myself, I show my CV and explain my work clea
 - Explain which parts the AI completed on its own.
 - Explain why I chose to use AI in my work.
 - Give several clear reasons and purposes behind that decision.
+
+**In learning tasks, the AI only explains concepts to me — it never writes the code in my place.**
